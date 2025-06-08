@@ -48,7 +48,7 @@
 }
 
 .row input{
-    flex:1;   /* // Full width available is taken*/
+    flex:1;   
     border : none;
     outline: none;
     background: transparent;
